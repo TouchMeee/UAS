@@ -1,0 +1,5 @@
+F:\Project\Belajar C#\Uas\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+F:\Project\Belajar C#\Uas\Final Project\bin\Debug\Final Project.exe
+F:\Project\Belajar C#\Uas\Final Project\bin\Debug\Final Project.pdb
+F:\Project\Belajar C#\Uas\Final Project\obj\Debug\Final Project.exe
+F:\Project\Belajar C#\Uas\Final Project\obj\Debug\Final Project.pdb
